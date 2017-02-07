@@ -4,7 +4,7 @@ Watch Autumn Elegy's video if you don't know how to set the normal stuff up prop
 
 [ or ] to change MouseSpeed
 
-- or = to change MousekeyMaxSpeed
+\- or = to change MousekeyMaxSpeed
 
 F12 to max both
 
